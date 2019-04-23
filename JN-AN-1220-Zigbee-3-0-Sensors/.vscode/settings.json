@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "app_occupancysensor.h": "c",
+        "app_user_app.h": "c"
+    }
+}
